@@ -1,9 +1,9 @@
 body {
-background:#263d85;
-margin-top: 1px;
-font-family:Verdana, helvetica;
-font-size:13px;
-background-attachment: fixed;
+
+background-color:black;
+.maincontainer{
+background-color: rgba(255,255,255);
+color: inherit;
 }
 #header {
 	background: url('patate.jpg') no-repeat center;
