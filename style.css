@@ -2,9 +2,9 @@ body {
  background: #008080;
  color: gray;
  margin-top: 100px;
- margin-right: 500px;
- margin-bottom: 30px;
- margin-left: 500px;}
+ margin-right: 200px;
+ margin-bottom: 100px;
+ margin-left: 200px;}
 
  #container{
    background:white;
@@ -15,7 +15,7 @@ body {
 /* Stili per i titoli h1 */
 h1 {
  color: red;
- font: 36px Helvetica, Arial, sans-serif;
+ font: 36px Helvetica, Arial black, sans-serif;
 }
 
 h2{color: black;}
