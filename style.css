@@ -8,14 +8,14 @@ body {
 
  #column center {
    color-background: white;
-   float: left;
+   float: center;
    width: 33.33%;
  }
  #title{
    text-align: center;
   }
   #column destra {
-    float: left;
+    float: right;
     width: 33.33%;
   }
 
