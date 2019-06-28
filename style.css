@@ -29,9 +29,10 @@ h1 {
  font: 36px Helvetica, Arial black, sans-serif;
 }
 
-h2{color: black;}
+h2{color: black;
+font: 20px Helvetica;}
 
 h3{text-align: center;
   margin-right: 420px;
   margin-left: 420px;
-font: 25px Helvetica, Arial;}
+font: 10px Helvetica, Arial;}
