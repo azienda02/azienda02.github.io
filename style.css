@@ -13,7 +13,7 @@ body {
    text-align: center;
   }
 #foto{
-   margin-left: center;
+   align : center;
 }
 h1 {
  color: red;
