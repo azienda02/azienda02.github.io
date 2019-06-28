@@ -22,14 +22,6 @@ body {
    text-align: center;
   }
 
-#menu {
-  	padding-left:700px;
-  	font-size:90%;
-  	color: #808080;
-  	font-family:tahoma,verdana,helvetica;
-  	list-style:none;
-  	margin-bottom: 270px;
-  }
 h1 {
  color: gray;
  font: 36px Helvetica, Arial black, sans-serif;
