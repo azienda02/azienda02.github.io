@@ -1,6 +1,6 @@
 body {
  background: white;
- color: black;
+ color: blue;
 }
 
 
@@ -15,7 +15,3 @@ h1 {
 
 /* Colore del testo delle liste */
 li {color: green;}
-/* Colore dei titoli h1 per la stampa */
-@media print {
- h1 {color: black;}
-}
