@@ -6,15 +6,18 @@ body {
  margin-bottom: 100px;
  margin-left: 200px;}
 
- #container{
-   background:white;
+ #column center {
+   color-background: white;
+   float: left;
+   width: 33.33%;
  }
  #title{
    text-align: center;
   }
-#destra a {
-  	color:#0061F2;
-  	}
+  #column destra {
+    float: left;
+    width: 33.33%;
+  }
 
 #menu li {
   	padding-left: 1020px;
