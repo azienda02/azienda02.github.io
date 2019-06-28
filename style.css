@@ -8,7 +8,7 @@ body {
 
  #column_center {
    color-background: white;
-   float: center;
+   float:center;
    width: 33.33%;
  }
  #title{
@@ -20,12 +20,12 @@ body {
   }
 
 #menu {
-  	padding-left: 1020px;
+  	padding-left:100px;
   	font-size:90%;
   	color: #808080;
   	font-family:tahoma,verdana,helvetica;
   	list-style:none;
-  	margin-bottom: 5px;
+  	margin-bottom: 50px;
   }
 h1 {
  color: gray;
