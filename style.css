@@ -12,7 +12,7 @@ body {
    width: 33.33%;
  }
 
-.row:after {
+#row:after {
   content: "";
   display: table;
   clear: both;
