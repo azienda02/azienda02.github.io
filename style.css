@@ -18,11 +18,12 @@ body {
 
 #menu li {
   	padding-left: 1020px;
+    padding-bottom: : 650px;
   	font-size:90%;
   	color: #808080;
   	font-family:tahoma,verdana,helvetica;
   	list-style:none;
-  	margin-bottom: 500px;
+  	margin-bottom: 5px;
   }
 h1 {
  color: red;
