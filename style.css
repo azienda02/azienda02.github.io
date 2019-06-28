@@ -9,7 +9,9 @@ body {
  #container{
    background:white;
  }
-
+ #title{
+    margin-left: 300px;
+  }
 
 
 /* Stili per i titoli h1 */
