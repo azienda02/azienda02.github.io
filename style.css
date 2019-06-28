@@ -8,15 +8,18 @@ body {
 
  #column_center {
    color-background: white;
-   float:center;
+   float:left;
    width: 33.33%;
  }
+
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
  #title{
    text-align: center;
-  }
-  #column_destra {
-    float: right;
-    width: 33.33%;
   }
 
 #menu {
