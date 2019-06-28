@@ -12,16 +12,12 @@ body {
  #title{
    text-align: center;
   }
-
-
-/* Stili per i titoli h1 */
+#foto{
+   margin-left: 300px;
+}
 h1 {
  color: red;
  font: 36px Helvetica, Arial black, sans-serif;
 }
 
 h2{color: black;}
-
-
-/* Colore del testo delle liste */
-li {color: green;}
