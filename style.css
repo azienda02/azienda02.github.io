@@ -6,7 +6,7 @@ body {
  margin-bottom: 100px;
  margin-left: 200px;}
 
- #column center {
+ #column_center {
    color-background: white;
    float: center;
    width: 33.33%;
@@ -14,12 +14,12 @@ body {
  #title{
    text-align: center;
   }
-  #column destra {
+  #column_destra {
     float: right;
     width: 33.33%;
   }
 
-#menu li {
+#menu {
   	padding-left: 1020px;
   	font-size:90%;
   	color: #808080;
@@ -28,7 +28,7 @@ body {
   	margin-bottom: 5px;
   }
 h1 {
- color: yellow;
+ color: gray;
  font: 36px Helvetica, Arial black, sans-serif;
 }
 
