@@ -8,8 +8,8 @@ body {
 
  .column{
    background: white;
-   background-size: 300px;
    float:left;
+  margin-bottom: 100px;
    width: 33.33%;
  }
 
