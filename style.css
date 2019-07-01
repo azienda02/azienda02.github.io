@@ -8,6 +8,7 @@ body {
 
  .column{
    background-color: white;
+   box-sizing: border-box;
    float:left;
    height: 900px;
    width: 33.33%;
