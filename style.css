@@ -9,7 +9,7 @@ body {
  .column{
    background: white;
    float:left;
-  margin-bottom: 100px;
+   height: auto;
    width: 33.33%;
  }
 
