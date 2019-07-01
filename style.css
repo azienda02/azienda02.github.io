@@ -7,9 +7,9 @@ body {
  margin-left: 148px;}
 
  .column{
-   background: white;
+   background-color: white;
    float:left;
-   height: 1000px;
+   height: 900px;
    width: 33.33%;
  }
 
