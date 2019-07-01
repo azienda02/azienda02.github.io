@@ -8,7 +8,7 @@ body {
 
  .column{
    background: white;
-   background-size: auto;
+   background-size: 300px;
    float:left;
    width: 33.33%;
  }
